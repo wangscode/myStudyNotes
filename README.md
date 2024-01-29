@@ -14,4 +14,4 @@
 2. 测试上传
 3. 测试 obisian git
 4. git@ssh.github.com:Permission denied(publickey).
-5. as
+5. asdf
